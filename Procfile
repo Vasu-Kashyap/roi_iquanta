@@ -1,1 +1,0 @@
-web: export DJANGO_SETTINGS_MODULE=iQuanta_ROI.settings && gunicorn iQuanta_ROI.wsgi --log-file -
